@@ -1,4 +1,4 @@
-# prjct-lrnng-prcss
+# Bouncing Ball Simulation using C
 Projects i created while learning to code. All languages
 
 # introduction
@@ -13,5 +13,5 @@ Update the parameters of the circle/ball accordingly to simulate gravity
 The updation is done to the coordinate of the center of the circle
 There is no damping simulated into the physics
 
-#conclusion
+# conclusion
 Maths can let us achieve interesting things even when our coding knowledge is limited
