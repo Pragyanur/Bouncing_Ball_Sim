@@ -1,5 +1,4 @@
 # Bouncing Ball Simulation using C
-Projects i created while learning to code. All languages
 
 # introduction
 This project was my first project i did using C
