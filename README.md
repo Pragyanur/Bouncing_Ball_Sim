@@ -1,8 +1,8 @@
 # Bouncing Ball Simulation using C
 
 # introduction
-This project was my first project i did using C
-At this point in time i was very less experienced with coding and didn't know what to google in order to make the things work the way i want to
+This project was my first project I did using C
+At this point in time I was very less experienced with coding and didn't know what to google in order to make the things work the way i want to
 
 # project working
 I am using the console as a canvas for this project
