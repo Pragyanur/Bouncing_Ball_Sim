@@ -13,7 +13,6 @@
 - There is no damping simulated into the physics.
 
 ## conclusion
-Maths can let us achieve interesting things even when our coding knowledge is limited.
+Maths can let us achieve interesting results even when our coding knowledge is limited.
 
-### NOTE
-Code has scope for simplification
+~~Code has scope for simplification~~ Not all simplification is good for learning
