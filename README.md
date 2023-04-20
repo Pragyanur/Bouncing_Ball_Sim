@@ -14,3 +14,6 @@
 
 ## conclusion
 Maths can let us achieve interesting things even when our coding knowledge is limited.
+
+### NOTE
+Code has scope for simplification
