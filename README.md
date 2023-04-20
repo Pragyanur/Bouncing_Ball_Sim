@@ -9,7 +9,7 @@
 - The ball is created through drawing characters at the required place on the console.
 - Used the simple equation of circle to draw the points.
 - Update the parameters of the circle/ball accordingly to simulate gravity.
-- The updation is done to the coordinate of the center of the circle.
+- The updation is done to the coordinates of the center of the circle.
 - There is no damping simulated into the physics.
 
 ## conclusion
